@@ -1,2 +1,6 @@
 # bpm-and-metronome-app
-A small and simple app made to calculate a BPM of a song by clicking, or using a metronome to play your songs accordingly!
+WARNING: This app is a demo preview and WIP, may not be ready to use.
+
+(Metronome is not available yet)
+
+Current version: demo-v1.0
